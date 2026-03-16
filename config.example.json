@@ -1,0 +1,20 @@
+{
+    "feishu": {
+        "app_id": "cli_xxxxxxxxxxxxxxxx",
+        "app_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "encrypt_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "verification_token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "webhook_url": "https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+        "target_chat_id": "oc_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "xunfei": {
+        "app_id": "xxxxxxxx",
+        "api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "api_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "ssh": {
+        "host": "sdf.org",
+        "user": "your_sdf_username",
+        "key_file": "~/.ssh/sdf_com_mcp"
+    }
+}
